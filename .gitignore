@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+.DS_Store
+Thumbs.db
+
+functions.dat
+
+LogicI2.docx
+LogicI2.docx.pdf
